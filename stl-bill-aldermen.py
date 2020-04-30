@@ -4,7 +4,7 @@ import requests
 import re
 import csv
 
-# last names of aldermen (2005-2019) and their unique ids
+# last names of aldermen (2019) and their unique ids
 name_and_id = []
 name_and_id.append(["roddy", 1316])
 name_and_id.append(["flowers", 1301])
@@ -37,8 +37,15 @@ name_and_id.append(["pboyd", 1518])
 name_and_id.append(["navarro", 1521])
 name_and_id.append(["reed", 1328])
 
+# define years 
 year = []
 for i in range(2005, 2019):
     year.append(str(i) + "-" + str(i + 1))
 
-print(year)
+for i in range(len(name_and_id)):
+    id_num = str(name_and_id[i][1])
+    name = name_and_id[i][0]
+    for j in range(len(year)):
+        page = requests.get("https://www.stlouis-mo.gov/government/city-laws/board-bills/sponsor.cfm?aldid=" + id_num + "&session=" + year[j])
+        soup = BeautifulSoup(page.text, 'lxml')
+        print(soup) # retrieving bills
