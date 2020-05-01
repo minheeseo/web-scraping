@@ -47,5 +47,30 @@ for i in range(len(name_and_id)):
     name = name_and_id[i][0]
     for j in range(len(year)):
         page = requests.get("https://www.stlouis-mo.gov/government/city-laws/board-bills/sponsor.cfm?aldid=" + id_num + "&session=" + year[j])
-        soup = BeautifulSoup(page.text, 'lxml')
-        print(soup) # retrieving bills
+        soup = BeautifulSoup(page.text, 'lxml')# retrieving contents of the bills
+        
+        try:
+            t = soup.find('table', attrs={'class': "data striped"})
+            count = 1
+            rows = t.find_all('td')
+            bill = []
+            tmp_arr = []
+            for tex in rows:
+                if count % 2 == 0:
+                    tmp = tex.text.strip()
+                    tmp_arr.append(tmp)
+                    tmp_arr.append(name)
+                    bill.append(tmp_arr)
+                    tmp_arr = []
+                else:
+                    tmp = tex.text.strip()
+                    tmp_arr.append(tmp)
+                count += 1
+            yr = year[j]
+            yr = yr[:4]
+            with open("data/STLbills/" + name + yr + ".csv", "w", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerows(bill)
+        except AttributeError as e:
+            print('no data .... pass' + name + str(year[j]))
+            continue
