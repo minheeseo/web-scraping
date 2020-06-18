@@ -23,7 +23,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # This function gets the list from the excel file
 # it will return an [{code: , msa: , name: },{}] format.
 def get_from_excel_file():
-    df = pandas.read_excel('input.xlsx')
+    df = pandas.read_excel('data/input.xlsx')
 
     # print the column names
     total_scrap_array = []
@@ -53,7 +53,6 @@ def get_to_the_go_rental(driver, cityname):
     url = "https://www.gosection8.com/Tenant/tn_Results.aspx?Address="
     newurl = url + cityname
     print(newurl + "  is presented..........\n")
-    # Go to example.com
     driver.get(newurl)
     time.sleep(np.random.lognormal(0, 1))
     soup = BeautifulSoup(driver.page_source, "lxml")
@@ -85,17 +84,13 @@ def get_to_the_go_rental(driver, cityname):
             pageLinks.append(urlWithPages)
 
         eachHouseInfo = getEachHouseHref(driver, pageLinks)
-        writeIntoCVS(cityname, eachHouseInfo)
-
-        # &&&&&&&&&&&&&&&
-        # need to write into csv
-        # &&&&&&&&&&&&&&
+        writeIntoCSV(cityname, eachHouseInfo)
 
     else:
         print(".....................no infomation for this link.....................")
 
 
-def checkingCVS(d_name, file_name):
+def checkingCSV(d_name, file_name):
     direc = os.path.dirname(d_name)
     if os.path.exists(direc):
         if os.path.exists(d_name + file_name):
@@ -103,7 +98,7 @@ def checkingCVS(d_name, file_name):
         else:
             return False
     else:
-        path = './cvs_outputs'
+        path = './csv_outputs'
         os.mkdir(path)
         return False
 
@@ -122,11 +117,11 @@ def withoutDup(file_name, eachHouseInfo):
     return alreadyIn
 
 
-def writeIntoCVS(cityname, eachHouseInfo):
+def writeIntoCSV(cityname, eachHouseInfo):
     print("\nwriting " + cityname + " into csv under csv_outputs folder\n")
-    d_name = './cvs_outputs/'
+    d_name = './csv_outputs/'
     file_name = cityname + '.csv'
-    check = checkingCVS(d_name, file_name)
+    check = checkingCSV(d_name, file_name)
     fieldnames = ["u_id", "address", "ptype", "rent",
                   "deposit", "bed", "bath", "sqfeet", "yearbuilt", "pet",
                   "ceilingFan", "furnished", "fireplace", "cablePaid",
