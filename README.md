@@ -19,6 +19,7 @@ The [GoSection8 website](https://www.gosection8.com/) provides affordable proper
 
 <p align="center">
 <img src="img/startpage.png" width="85%" title="" alt="gosection"></img><br/>
+<br/>
 <img src="img/go8.png" width="85%" title="" alt="gosection2"></img><br/>
 </p>
 
@@ -82,7 +83,7 @@ def get_to_the_go_rental(driver, cityname):
 Screenshot of a csv file. 
 
 <p align="center">
-<img src="img/go8result.png" width="85%" title="" alt="gosection3"></img><br/>
+<img src="img/go8result.png" width="100%" title="" alt="gosection3"></img><br/>
 </p>
 
 

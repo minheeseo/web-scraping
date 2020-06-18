@@ -1,0 +1,4 @@
+u_id,address,ptype,rent,deposit,bed,bath,sqfeet,yearbuilt,pet,ceilingFan,furnished,fireplace,cablePaid,securitySystem,laundry,washer,dryer,heatstyle,dishwasher,stove,garbage,refrigerator,microwave,swimming,parking,fence,porch,smoking
+4872713,"110 M L K Dr BElgin, Bastrop County  78621",Duplex,"$1,395.00","$1,000.00",3,2,1100,2005,No,Yes,No,No,No,No,No,No,No,Central,No,Yes,No,Yes,No,No,2 Spaces,No,Porch,No
+4912879,"13817 County Line Rd 3801Elgin, Bastrop County  78621",Apt,$987.00,$150.00,1,1,770,2002,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Covered,No,Porch,No
+4895140,"13817 County Line Rd 1704Elgin, Bastrop County  78621",Apt,"$1,346.00",$350.00,3,2,1166,2005,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Porch,Yes

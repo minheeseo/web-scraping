@@ -1,0 +1,208 @@
+u_id,address,ptype,rent,deposit,bed,bath,sqfeet,yearbuilt,pet,ceilingFan,furnished,fireplace,cablePaid,securitySystem,laundry,washer,dryer,heatstyle,dishwasher,stove,garbage,refrigerator,microwave,swimming,parking,fence,porch,smoking
+4957565,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$250.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Patio,No
+4951836,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,427.00",$250.00,3,1.5,1023,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4952347,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$500.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4953088,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$500.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4953729,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$500.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Patio,No
+4954675,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$500.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4758041,"8712 Old Manor Rd  Austin, Travis County  78724",Apt,"$1,050.00",$200.00,2,2,919,2017,Yes,Yes,No,No,No,No,No,No,No,Furnace,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4758046,"8712 Old Manor Rd  Austin, Travis County  78724",Apt,"$1,189.00",$300.00,3,2,1067,2017,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4758048,"8712 Old Manor Rd  Austin, Travis County  78724",Apt,"$1,189.00",$300.00,3,2,1296,2017,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4868072,"10505 S Interstate 35 Austin, Travis County  78747",Apt,"$1,250.00",$131.00,2,2,N/A,2003,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Porch,Yes
+4925806,"10505 S Interstate 35 Austin, Travis County  78747",Apt,$950.00,$131.00,1,1,N/A,2003,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Balcony,Yes
+4930949,"10505 S Interstate 35 Austin, Travis County  78747",Apt,"$1,500.00",$131.00,3,2,N/A,2003,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Balcony,Yes
+4853816,"2800 Lyons Rd Austin, Travis County  78702",Apt,$833.00,$150.00,1,1,0,2019,No,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,Not Known,No
+4783199,"2800 Lyons Rd Austin, Travis County  78702",Apt,$782.00,$150.00,Efficiency,1,N/A,2019,No,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Unassigned,No,Not Known,No
+4853817,"2800 Lyons Rd Austin, Travis County  78702",Apt,"$1,240.00",$250.00,2,1,N/A,2019,No,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,No,Unassigned,No,Not Known,No
+4854537,"2800 Lyons Rd Austin, Travis County  78702",Apt,$969.00,$250.00,2,2,828,2014,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Unassigned,No,Not Known,No
+4957004,"1500 Faro Dr 2224Austin, Travis County  78741",Apt,"$1,467.00",$300.00,3,2,1212,1996,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Balcony,No
+4957003,"1500 Faro Dr 513Austin, Travis County  78741",Apt,$925.00,$150.00,1,1,772,1996,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Patio,No
+4957002,"1500 Faro Dr 123Austin, Travis County  78741",Apt,$950.00,$200.00,2,1,939,1996,Yes,No,No,No,No,No,No,No,No,Central,No,No,No,No,No,Yes,Open,No,Balcony,No
+4916511,"12151 N Interstate 35 Austin, Travis County  78753",Apt,"$1,491.00",$450.00,4,2,1350,1996,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4916506,"12151 N Interstate 35 Austin, Travis County  78753",Apt,"$1,348.00",$450.00,3,2,1250,196,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4916494,"12151 N Interstate 35 Austin, Travis County  78753",Apt,"$1,174.00",$350.00,2,2,1000,1996,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4916488,"12151 N Interstate 35 Austin, Travis County  78753",Apt,"$1,174.00",$350.00,2,1,900,1996,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4668470,"7707 S Interstate 35  Austin, Travis County  78744",Apt,$989.00,$200.00,1,1,723,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,Patio,No
+4668456,"7707 S Interstate 35  Austin, Travis County  78744",Apt,"$1,234.00",$300.00,2,2,963,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,None,No
+4668483,"7707 S Interstate 35  Austin, Travis County  78744",Apt,"$1,543.00",$400.00,3,2,1225,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Balcony,No
+4930459,"1140 Salina St Austin, Travis County  78702",Duplex,"$1,250.00","$1,250.00",2,2,1016,1985,No,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,No,2 Spaces,No,Porch,No
+4735314,"1804 Wooten Park Dr 101Austin, Travis County  78757",Townhouse/Villa,"$1,150.00",$500.00,2,1.5,948,1968,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,No,Yes,Yes,No,2 Spaces,No,Patio,No
+4094135,"1801 Wooten Park Dr Austin, Travis County  78757",Townhouse/Villa,"$1,099.00","$1,099.00",2,1.5,1050,1968,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,No,No,2 Spaces,No,Patio,No
+4741631,"7707 S Interstate 35  Austin, Travis County  78744",Apt,"$1,134.00",$300.00,2,2,845,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,Patio,No
+4916480,"12151 N Interstate 35 Austin, Travis County  78753",Apt,$981.00,$250.00,1,1,700,1996,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4954966,"9502 Kempler Dr DAustin, Travis County  78748",4 Plex,"$1,200.00","$1,200.00",2,2,900,N/A,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,2 Spaces,No,Balcony,No
+4954298,"1773 Wells Branch Pkwy 1130Austin, Travis County  78728",Apt,$904.00,$200.00,1,1,562,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954296,"1773 Wells Branch Pkwy 1321Austin, Travis County  78728",Apt,$904.00,$200.00,1,1,562,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954294,"1773 Wells Branch Pkwy 103Austin, Travis County  78728",Apt,"$1,254.00",$250.00,1,1,1027,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954292,"1773 Wells Branch Pkwy 119Austin, Travis County  78728",Apt,$904.00,$200.00,1,1,562,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954291,"1773 Wells Branch Pkwy 1017Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954290,"1773 Wells Branch Pkwy 1104Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954289,"1773 Wells Branch Pkwy 407Austin, Travis County  78728",Apt,"$1,254.00",$250.00,1,1,1027,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4954288,"1773 Wells Branch Pkwy 210Austin, Travis County  78728",Apt,$874.00,$200.00,1,1,583,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4342477,"1026 CLAYTON LN AUSTIN, TRAVIS County  78723",Apt,"$1,058.00",$250.00,2,1,834,2002,Yes,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,Patio,No
+4710578,"1700 Teri Rd  Austin, Travis County  78744",Apt,"$1,271.00",$250.00,2,2,1006,2004,No,Yes,Yes,No,Yes,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,2 Spaces,No,Balcony,No
+4120496,"1700 Teri Rd  Austin, Travis County  78744",Apt,"$1,060.00",$150.00,1,1,791,2003,Yes,Yes,No,No,No,Yes,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Patio,Yes
+4782589,"1700 Teri Rd Austin, Travis County  78744",Apt,"$1,271.00",$250.00,2,2,1006,2004,Yes,Yes,No,No,No,Yes,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4898443,"7002 Oak Meadow Cir BAustin, Travis County  78736",Duplex,"$1,350.00","$1,300.00",2,1.5,1150,1980,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,2 Spaces,Yes,Patio,Yes
+4949733,"8100 N Mopac Expy 233Austin, Travis County  78759",Apt,$969.00,$88.00,1,1,702,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4949727,"8100 N Mopac Expy 237Austin, Travis County  78759",Apt,"$1,299.00",$88.00,2,2,944,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4947244,"8100 N Mopac Expy 204Austin, Travis County  78759",Apt,"$1,159.00",$88.00,2,2,944,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4947251,"8100 N Mopac Expy 158Austin, Travis County  78759",Apt,"$1,595.00",$88.00,3,2,1343,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4949744,"8100 N Mopac Expy 281Austin, Travis County  78759",Apt,"$1,199.00",$88.00,2,1,936,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4951253,"8100 N Mopac Expy 265Austin, Travis County  78759",Apt,"$1,199.00",$88.00,2,1,936,168,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,None,No
+4949794,"3300 Oak Creek Dr Austin, TRAVIS County  78727",Apt,"$1,246.00",$300.00,2,2,895,2020,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,None,No
+4953715,"3300 Oak Creek Dr Austin, TRAVIS County  78727",Apt,"$1,633.00",$300.00,3,2,1148,2020,No,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,No,Unknown,No,Not Known,No
+4947627,"1773 Wells Branch Pkwy 1209Austin, Travis County  78728",Apt,$904.00,$200.00,1,1,562,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947676,"1773 Wells Branch Pkwy 717Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947681,"1773 Wells Branch Pkwy 111Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947682,"1773 Wells Branch Pkwy 1103Austin, Travis County  78728",Apt,"$1,014.00",$200.00,1,1,675,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947687,"1773 Wells Branch Pkwy 624Austin, Travis County  78728",Apt,"$1,034.00",$200.00,1,1,742,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947689,"1773 Wells Branch Pkwy 602Austin, Travis County  78728",Apt,"$1,214.00",$250.00,2,1,935,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4947690,"1773 Wells Branch Pkwy 310Austin, Travis County  78728",Apt,"$1,214.00",$250.00,2,1,935,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4950738,"1773 Wells Branch Pkwy 1306Austin, Travis County  78728",Apt,$884.00,$200.00,1,1,562,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4950740,"1773 Wells Branch Pkwy 716Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4845443,"8402 Garcreek Cir Austin, Travis County  78724",4 Plex,$925.00,$925.00,2,1.5,992,1985,No,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,No,Yes,No,No,2 Spaces,No,Patio,No
+4951521,"6625 Mckinney Falls Pkwy Austin, Travis County  78744",Apt,"$1,236.00",$250.00,2,2,843,2020,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4777971,"4404 E Oltorf St  6301Austin, TRAVIS County  78741",Apt,"$1,515.00",$0,3,3,1023,2000,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4777973,"4404 E Oltorf St  8202Austin, TRAVIS County  78741",Apt,"$1,515.00",$0,3,2,1083,2000,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4776072,"4404 E Oltorf St 1304Austin, Travis County  78741",Apt,"$1,600.00",$0,4,2,1052,2000,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4950741,"1773 Wells Branch Pkwy 523Austin, Travis County  78728",Apt,"$1,034.00",$200.00,1,1,742,1987,Yes,No,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4900632,"1501 E Howard Ln Austin, Travis County  78753",Apt,"$1,035.00",$100.00,2,2,N/A,N/A,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4933181,"9345 E Highway 290 Austin, Travis County  78724",Apt,"$1,100.00",$250.00,2,2,950,2006,Yes,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4942952,"1773 Wells Branch Pkwy 703Austin, Travis County  78728",Apt,"$1,254.00",$250.00,2,2,1027,1987,Yes,Yes,No,No,Yes,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4942948,"1773 Wells Branch Pkwy 1204Austin, Travis County  78728",Apt,$904.00,$200.00,1,1,562,1987,Yes,Yes,No,No,Yes,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4942933,"1773 Wells Branch Pkwy 223Austin, Travis County  78728",Apt,$914.00,$200.00,1,1,583,1987,Yes,Yes,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4939283,"1773 Wells Branch Pkwy 817Austin, Travis County  78728",Apt,$974.00,$200.00,1,1,654,1987,Yes,Yes,No,No,Yes,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4942924,"1773 Wells Branch Pkwy 622Austin, Travis County  78728",Apt,"$1,034.00",$200.00,1,1,742,1987,Yes,Yes,No,No,Yes,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4942934,"1773 Wells Branch Pkwy 1203Austin, Travis County  78728",Apt,$914.00,$200.00,1,1,583,1987,Yes,Yes,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4604152,"8071 N Lamar Blvd Austin, Travis County  78753",Apt,"$1,066.00",$200.00,2,1,730,1965,No,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,Balcony,No
+4728019,"2809 W William Cannon Dr Austin, Travis County  78745",Apt,"$1,120.00",$200.00,2,2,874,1986,Yes,Yes,No,Yes,Yes,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,Yes
+4933172,"9345 E Highway 290 Austin, Travis County  78724",Apt,"$1,047.00",$250.00,1,1,750,2006,Yes,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4933188,"9345 E Highway 290 Austin, Travis County  78724",Apt,"$1,459.00",$250.00,3,2,1100,2006,Yes,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4829842,"8100 N Mopac Expy Austin, Travis County  78759",Apt,"$1,030.00","$8,800.00",1,1,759,N/A,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Not Known,No
+4773907,"9435 Middle Fiskville Rd 116Austin, Travis County  78753",Apt,"$1,050.00",$300.00,2,1.5,812,N/A,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Unknown,No,Not Known,No
+4763215,"8400 Beech Dr 210Austin, Travis County  78758",Apt,$899.00,$300.00,1,1,N/A,N/A,Yes,Yes,No,No,No,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,No,No,Unassigned,No,None,No
+4905465,"1714 Patton Ln 308Austin, Travis County  78723",Apt,"$1,115.00",$300.00,2,2,840,1972,Yes,Yes,No,No,No,No,Yes,No,No,Unknown,No,Yes,No,Yes,No,No,Unassigned,No,None,No
+4905466,"8400 Beech Dr 101Austin, Travis County  78758",Apt,"$1,000.00",$300.00,2,1.5,1050,N/A,Yes,Yes,No,No,No,No,Yes,No,No,Unknown,Yes,Yes,No,Yes,No,No,Unassigned,No,None,No
+4705508,"1400 E 51St St 11Austin, Travis County  78723",Apt,"$1,025.00",$300.00,2,1,N/A,N/A,Yes,Yes,No,No,No,No,Yes,No,No,Space,Yes,Yes,Yes,Yes,No,No,Unassigned,No,Not Known,No
+4902421,"5900 Charles Merle Dr Austin, Travis County  78747",Apt,"$1,008.00",$400.00,1,1,823,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4747354,"3000 Lakeline Blvd  Leander, Travis County  78641",Apt,"$1,130.00",$250.00,2,2,1002,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unknown,No,Porch,No
+4899127,"8100 N Mopac Expy Austin, Travis County  78759",Apt,"$1,259.00",$88.00,2,2,N/A,N/A,No,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,None,No
+4747373,"3000 Lakeline Blvd  Leander, TRAVIS County  78641",Apt,"$1,295.00",$350.00,3,2,1143,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unknown,No,Not Known,No
+4747376,"3000 Lakeline Blvd  Leander, TRAVIS County  78641",Apt,"$1,500.00",$450.00,4,2,1395,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unknown,No,Porch,No
+4747370,"3000 Lakeline Blvd  Leander, Travis County  78641",Apt,$915.00,$150.00,1,1,700,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unknown,No,Porch,No
+4827307,"8100 N Mopac Expy 2X2Austin, Travis County  78759",Apt,"$1,430.00",$88.00,2,2,1314,1968,Yes,Yes,No,No,Yes,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4604158,"8071 N Lamar Blvd Austin, Travis County  78753",Apt,"$1,223.00",$300.00,3,1,860,1965,No,Yes,No,No,Yes,No,Yes,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,No,Open,No,Balcony,No
+4844345,"8100 N Mopac Expy Austin, Travis County  78759",Apt,"$1,229.00",$87.00,2,1,936,1978,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Not Known,No
+4816959,"10127 Middle Fiskville Rd Austin, Travis County  78753",Apt,"$1,065.00",$150.00,1,1,977,2018,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4781937,"10127 Middle Fiskville Rd Austin, TRAVIS County  78753",Apt,"$1,278.00",$250.00,2,1,977,2018,Yes,Yes,No,No,No,No,No,No,No,Furnace,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4848880,"11908 Anderson Mill Rd Austin, Travis County  78726",Apt,"$1,000.00",$132.00,1,1,690,1999,Yes,Yes,No,Yes,Yes,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4848896,"11908 Anderson Mill Rd Austin, Travis County  78726",Apt,"$1,190.00",$132.00,2,2,932,1999,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4957612,"608 Tudor House Rd UnitPflugerville, Travis County  78660",House,"$1,675.00","$1,250.00",3,2,1708,2003,No,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,No,2 - Car Garage,Yes,Patio,Yes
+4956987,"8919 Galewood Dr 204Austin, Travis County  78758",Apt,"$1,000.00","$1,000.00",2,1,750,1973,Yes,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,Yes,Yes,No,No,2 Spaces,No,Porch,No
+4955788,"8600 N Lamar Blvd 2252Austin, Travis County  78753",Apt,$699.00,$99.00,Efficiency,1,350,1974,Yes,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,Yes,Yes,Yes,Yes,Open,No,Not Known,No
+4955736,"1913 W Loop BbAustin, Travis County  78758",4 Plex,"$1,100.00","$1,100.00",2,2,1031,1982,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,No,Yes,No,No,Unassigned,No,Porch,No
+4955734,"7417 Vintage Hills Dr CAustin, Travis County  78723",4 Plex,"$1,050.00","$1,050.00",2,1,750,1984,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,No,Unassigned,No,Not Known,No
+4955728,"7417 Vintage Hills Dr DdAustin, Travis County  78723",4 Plex,"$1,050.00","$1,050.00",2,1,750,1984,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,No,Unassigned,No,Balcony,No
+4955413,"4901 Craigwood Dr Austin, Travis County  78725",House,"$1,750.00","$1,750.00",3,2,1326,1970,No,Yes,No,Yes,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,No,No,2 - Car Garage,Yes,Patio,No
+4269150,"4808 Single Shot Cir Austin, TRAVIS County  78723",House,"$1,695.00","$1,695.00",3,2,1575,1998,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,No,No,2 Spaces,No,Not Known,No
+4269145,"6919 Shannon Dr Austin, TRAVIS County  78724",House,"$1,595.00","$1,595.00",4,1.5,1170,1980,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,No,No,2 Spaces,No,Deck,No
+4511900,"9400 Hunters E Trce Austin, Travis County  78758",House,"$1,950.00","$1,950.00",4,2,2025,1972,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,No,2 - Car Garage,Yes,Patio,No
+4126044,"14515 Oliphant St Austin, Travis County  78725",House,"$1,800.00","$1,800.00",4,2,1662,2000,No,Yes,No,No,No,No,No,No,No,Central,No,No,No,No,No,No,Unknown,No,Not Known,No
+4954579,"8801 Mccann Dr 138Austin, Travis County  78757",Apt,$860.00,$150.00,1,1,723,N/A,Yes,Yes,No,No,Yes,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Patio,No
+4953516,"7703 Elderberry Dr Austin, Travis County  78745",House,"$1,775.00","$1,400.00",3,2,1100,N/A,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Furnace,Yes,Yes,Yes,Yes,Yes,No,2 - Car Garage,Yes,Not Known,No
+4189242,"6111 CADDIE ST AAUSTIN, TRAVIS County  78741",Duplex,"$1,700.00","$1,700.00",3,2,1331,2005,No,Yes,No,No,No,No,No,No,No,Central,No,Yes,Yes,Yes,No,No,Driveway,No,Not Known,No
+4952769,"1305 E Saint Johns Ave Austin, Travis County  78752",Duplex,"$1,495.00","$1,500.00",3,2,1400,1968,Yes,No,No,Yes,No,No,No,Yes,Yes,Central,Yes,Yes,No,Yes,No,No,1 - Carport,Yes,Porch,No
+4949337,"1614 Wheless Ln 110Austin, Travis County  78723",Apt,"$1,175.00",$500.00,2,1,868,1970,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,No,Assigned,No,Porch,No
+4948507,"7418 Cameron Rd 210Austin, Travis County  78752",Apt,$890.00,$600.00,1,1,790,1984,No,No,No,Yes,No,No,No,No,No,Central,No,Yes,No,Yes,No,No,Unassigned,No,Patio,No
+4920166,"2503 Cecil Dr 3Austin, Travis County  78744",4 Plex,$775.00,$700.00,1,1,625,1968,No,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,No,Yes,No,No,1 Space,No,Porch,No
+4946635,"2501 Bucks Run BAustin, Travis County  78744",Duplex,"$1,275.00","$1,275.00",2,1,892,1983,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,1 - Carport,No,Balcony,No
+4946630,"2501 Bucks Run AAustin, Travis County  78744",Duplex,"$1,300.00","$1,300.00",2,1,892,1983,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,1 - Carport,Yes,Patio,No
+4944654,"6200 Loyola Ln 833Austin, Travis County  78724",Apt,"$1,288.00",$300.00,3,2,1106,2007,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4944651,"6200 Loyola Ln 1224Austin, Travis County  78724",Apt,"$1,118.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,None,No
+4911945,"6200 Loyola Ln Austin, Travis County  78724",Apt,"$1,288.00",$300.00,3,2,1107,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4944381,"2906 E Martin Luther King Jr Blvd 32Austin, Travis County  78702",Apt,"$1,280.00",$250.00,3,2,1200,2011,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,None,No
+4944380,"2906 E Martin Luther King Jr Blvd 32Austin, Travis County  78702",Apt,"$1,280.00",$250.00,3,2,1200,2011,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,Not Known,No
+4944378,"2906 E Martin Luther King Jr Blvd 24Austin, Travis County  78702",Apt,"$1,280.00",$250.00,3,2,1200,2011,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Open,No,Not Known,No
+4944025,"3226 W Slaughter Ln 406Austin, Travis County  78748",Apt,$980.00,$150.00,1,1,698,2015,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Unassigned,No,Not Known,No
+4942580,"4905 Blue Bluff Rd Austin, Travis County  78724",House,"$1,000.00","$1,000.00",2,1,900,1980,No,Yes,No,No,No,No,No,No,No,Furnace,No,Yes,No,Yes,No,No,Unknown,Yes,Not Known,No
+4940016,"6200 Loyola Ln 934Austin, Travis County  78724",Apt,"$1,118.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4939439,"5913 Alsace Trl Austin, Travis County  78724",House,"$1,650.00","$1,650.00",3,2,1306,1980,No,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,No,Unknown,No,Not Known,No
+4939189,"6200 Loyola Ln 812Austin, Travis County  78724",Apt,"$1,118.00",$200.00,2,1.5,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Patio,No
+4939188,"6200 Loyola Ln 1134Austin, Travis County  78724",Apt,$931.00,$150.00,1,1,786,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4938592,"2700 Little Valley Cv AAustin, Travis County  78741",Duplex,"$1,495.00",$0,3,1,1160,1973,Yes,No,No,Yes,No,No,No,Yes,Yes,Furnace,No,Yes,No,Yes,No,No,Driveway,Yes,Patio,No
+4934906,"1521 Reagan Hill Dr Austin, Travis County  78752",Apt,$999.00,$150.00,1,1,630,N/A,No,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,No,No,Open,No,Balcony,No
+4932939,"2507 Bucks Run BAustin, Travis County  78744",Duplex,"$1,080.00","$1,080.00",2,1,832,1984,No,Yes,No,No,No,No,No,No,No,Furnace,Yes,Yes,Yes,Yes,No,No,Covered,No,Patio,No
+4932124,"1137 Gunter St 112Austin, Travis County  78721",Apt,"$1,080.00",$500.00,2,1,N/A,N/A,No,No,No,No,No,No,No,No,No,Unknown,No,No,No,No,No,No,Unknown,No,Not Known,No
+4888450,"1800 S I35 Frontage Road Austin, TRAVIS County  78704",Apt,"$1,750.00",$300.00,2,2,870,2019,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Covered,No,None,No
+4888469,"1800 S I 35 Frontage Road Austin, TRAVIS County  78704",Apt,"$2,100.00",$400.00,3,2,1123,2019,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Covered,No,None,No
+4929081,"2906 E Martin Luther King Jr Blvd 24Austin, Travis County  78702",Apt,$930.00,$150.00,1,1,712,2020,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,1 Space,No,None,No
+4926001,"6200 Loyola Ln Austin, Travis County  78724",Apt,"$1,000.00",$200.00,2,1,1007,2007,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Not Known,No
+4925392,"6200 Loyola Ln 938Austin, Travis County  78724",Apt,"$1,000.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Patio,No
+4925362,"6200 Loyola Ln 438Austin, Travis County  78724",Apt,$931.00,$150.00,1,1,786,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,2 - Carport,No,Patio,No
+4923959,"1500 Reagan Hill Dr Austin, Travis County  78752",Apt,"$1,249.00",$250.00,2,1,850,1971,Yes,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,Yes,Yes,No,No,Open,No,None,No
+4799967,"12118 Walnut Park Xing Austin, TRAVIS County  78753",Apt,$943.00,$100.00,1,1,569,2001,Yes,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Patio,Yes
+4799979,"12118 Walnut Park Xing Austin, TRAVIS County  78753",Apt,$943.00,$100.00,1,1,643,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,Yes
+4923208,"8600 N Lamar Blvd Austin, Travis County  78753",Apt,$899.00,$99.00,2,1,750,1974,Yes,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,Yes,Yes,Yes,Yes,Open,No,Not Known,No
+4922986,"11320 Menchaca Rd Austin, Travis County  78748",Apt,"$1,450.00",$400.00,2,1,1159,2018,No,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4922978,"6200 Loyola Ln 425Austin, Travis County  78724",Apt,"$1,200.00",$300.00,3,2,1106,2007,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4922961,"6200 Loyola Ln 938Austin, Travis County  78724",Apt,"$1,000.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4920706,"121 Woodward St Austin, Travis County  78704",Apt,$945.00,$200.00,1,1,400,1985,Yes,Yes,No,No,No,No,Yes,No,No,Boiler,No,Yes,Yes,Yes,No,No,Unassigned,No,None,No
+4600558,"10910 N FM 620 Austin, Travis County  78726",Apt,"$1,030.00",$250.00,2,2,1013,2016,Yes,No,No,No,No,No,No,No,No,Unknown,No,No,No,No,No,Yes,Unknown,Yes,Not Known,No
+4915289,"6200 Loyola Ln Austin, Travis County  78724",Apt,"$1,118.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4915287,"6200 Loyola Ln Austin, Travis County  78724",Apt,$931.00,$150.00,1,1,786,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4913933,"2347 Douglas St Austin, Travis County  78741",Apt,"$1,193.00",$200.00,2,2,963,1999,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,Not Known,No
+4913928,"2347 Douglas St Austin, Travis County  78741",Apt,"$1,373.00",$300.00,3,2,1202,1966,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,None,No
+4912783,"6200 Loyola Ln Austin, Travis County  78724",Apt,"$1,118.00",$200.00,2,2,1007,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Patio,No
+4912781,"6200 Loyola Ln Austin, Travis County  78724",Apt,$931.00,$150.00,1,1,786,2007,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4912787,"6200 Loyola Ln Austin, Travis County  78724",Apt,"$1,288.00",$300.00,3,2,N/A,N/A,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Patio,No
+4912651,"9613 Point Vista Pl AAustin, Travis County  78753",Duplex,"$1,200.00","$1,000.00",2,1,1023,1984,No,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,No,1 - Carport,No,Patio,No
+4576374,"2201 Montopolis Dr Austin, Travis County  78741",Apt,"$1,160.00","$32,500.00",3,2,1050,2003,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Patio,No
+4576373,"2201 Montopolis Dr Austin, Travis County  78741",Apt,$815.00,$125.00,1,1,750,2003,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Balcony,No
+4576376,"2201 Montopolis Dr  Austin, Travis County  78741",Apt,"$1,010.00",$225.00,2,2,900,2003,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Open,No,Patio,No
+4894912,"9201 Cameron Road Austin, TRAVIS County  78754",Apt,"$1,207.00",$150.00,2,1,976,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,2 Spaces,No,None,Yes
+4890046,"11900 Hobby Horse Ct 1513Austin, Travis County  78758",Apt,"$1,200.00",$400.00,2,2,911,1996,Yes,No,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Patio,No
+4887800,"121 Woodward St Austin, Travis County  78704",Apt,"$1,056.00",$200.00,1,1,400,1985,Yes,Yes,No,No,No,No,Yes,No,No,Central,No,Yes,Yes,Yes,No,No,Unassigned,No,Not Known,No
+4637322,"5605 Springdale Rd Austin, Travis County  78723",Apt,$925.00,$150.00,1,1,680,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4788254,"5605 Springdale Rd Austin, Travis County  78723",Apt,"$1,030.00",$200.00,2,2,927,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,Yes
+4700460,"500 Grand Avenue Pkwy Pflugerville, Travis County  78660",Apt,"$1,063.00",$200.00,1,1,727,2008,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4700454,"500 Grand Avenue Pkwy  Pflugerville, TRAVIS County  78660",Apt,"$1,276.00",$300.00,2,2,968,2008,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Patio,No
+4700697,"500 Grand Avenue Pkwy Pflugerville, Travis County  78660",Apt,"$1,063.00",$200.00,1,1,727,2008,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4872766,"7200 Duval St Austin, Travis County  78752",Apt,$820.00,$300.00,1,1,656,1969,Yes,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,No,Open,No,Patio,No
+4714511,"6725 Circle S Rd Austin, Travis County  78745",Apt,"$1,207.00",$200.00,2,2,N/A,2017,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4788309,"6725 Circle S Rd Austin, Travis County  78745",Apt,"$1,011.00",$150.00,1,1,N/A,2017,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Covered,No,Not Known,No
+4867973,"701 Woodward St Austin, Travis County  78704",Apt,"$1,241.00",$300.00,3,2,1200,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,2 - Carport,No,Balcony,No
+4867947,"701 Woodward St Austin, Travis County  78704",Apt,"$1,076.00",$250.00,2,1,960,2002,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Carport,No,Balcony,No
+4457015,"1001 Collinwood West Dr Austin, TRAVIS County  78753",Apt,"$1,050.00",$150.00,2,1,850,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,None,Yes
+4863285,"5800 Techni Center Dr Austin, Travis County  78721",Apt,"$1,100.00",$200.00,2,2,875,2002,No,Yes,No,No,No,No,No,No,No,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Patio,No
+4861429,"1638 East 2Nd Street Austin, TRAVIS County  78702",Apt,"$1,680.00",$350.00,4,2,1487,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Assigned,No,Balcony,No
+4861421,"1638 East 2Nd Street Austin, TRAVIS County  78702",Apt,"$1,502.00",$350.00,3,2,1259,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Assigned,No,Balcony,No
+4861418,"1638 East 2Nd Street Austin, TRAVIS County  78702",Apt,"$1,298.00",$250.00,2,1,913,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Assigned,No,Balcony,No
+4861412,"1638 East 2Nd Street Austin, TRAVIS County  78702",Apt,"$1,077.00",$150.00,1,1,646,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,No,Assigned,No,Balcony,No
+4846555,"14011 FM 969 Austin, Travis County  78724",Apt,"$1,491.00",$400.00,4,2,1537,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,Yes
+4846549,"14011 FM 969 Austin, Travis County  78724",Apt,"$1,347.00",$300.00,3,2,1118,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,Yes
+4846538,"14011 FM 969 Austin, Travis County  78724",Apt,"$1,173.00",$200.00,2,2,970,2019,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,Yes
+4844207,"12433 Dessau Rd Austin, Travis County  78754",Apt,$959.00,$200.00,2,1,969,2017,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,1 - Car Garage,No,Not Known,No
+4837899,"3400 Shoreline Dr Austin, Travis County  78728",Apt,"$1,005.00",$100.00,1,1,730,2001,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4837894,"3400 Shoreline Dr Austin, Travis County  78728",Apt,"$1,095.00",$100.00,1,1,800,2001,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4836054,"3400 Shoreline Dr Austin, Travis County  78728",Apt,$985.00,$100.00,1,1,647,2001,No,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,No
+4639107,"5800 Sweeney Cir Austin, Travis County  78723",Apt,$875.00,$875.00,2,1,744,1984,No,Yes,No,No,No,No,No,No,No,Central,No,Yes,Yes,Yes,No,No,Unassigned,No,Not Known,No
+4811011,"12118 Walnut Park Xing Austin, Travis County  78753",Apt,"$1,300.00",$200.00,2,2,1116,2001,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,Yes
+4811007,"12118 Walnut Park Xing Austin, Travis County  78753",Apt,"$1,152.00",$200.00,2,1,908,2001,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,Yes
+4806098,"1143 Shady Ln StudioAustin, Travis County  78721",Apt,$981.00,$981.00,1,1,N/A,2018,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4806075,"1143 Shady Ln 2BEDAustin, TRAVIS County  78721",Apt,"$1,174.00","$117,400.00",2,2,0,2018,Yes,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Balcony,No
+4799985,"12118 Walnut Park Xing Austin, Travis County  78753",Apt,$993.00,$100.00,1,1,772,2001,Yes,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Open,No,Patio,Yes
+4793471,"1814 Colony Creek Dr Austin, Travis County  78758",Apt,$819.00,$300.00,1,1,450,1972,Yes,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,Yes,Unassigned,No,Balcony,No
+4770932,"8806 Redfield Ln  Austin, Travis County  78758",Apt,$750.00,$150.00,1,1,650,N/A,Yes,No,No,No,No,No,Yes,No,No,Unknown,Yes,Yes,Yes,Yes,No,No,Unassigned,No,Not Known,Yes
+4770229,"8806 Redfield Ln  Austin, Travis County  78758",Apt,$750.00,$150.00,1,1,650,N/A,Yes,No,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,No,Unassigned,No,None,Yes
+4769606,"8806 Redfield Ln  Austin, Travis County  78758",Apt,$750.00,$150.00,1,1,650,N/A,Yes,No,No,No,No,No,Yes,No,No,Central,Yes,Yes,Yes,Yes,No,No,Unassigned,No,None,Yes
+4760441,"6103 Manor Rd  Austin, TRAVIS County  78723",Apt,"$1,150.00",$250.00,2,2,982,1973,Yes,Yes,No,No,No,No,Yes,No,No,Central,Yes,Yes,No,Yes,No,No,Unassigned,No,None,Yes
+4760449,"2606 Wheless Ln  Austin, TRAVIS County  78723",Apt,"$1,100.00",$300.00,2,1,910,1972,Yes,Yes,No,No,No,No,Yes,No,No,Unknown,No,Yes,No,Yes,No,No,Unassigned,No,Not Known,Yes
+4749796,"10910 N FM 620 Rd  Austin, Travis County  78726",Apt,$961.00,$200.00,1,1,725,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4425630,"1001 Collinwood West Dr  Austin, Travis County  78753",Apt,$900.00,$100.00,1,1,650,2001,Yes,No,Unknown,Unknown,No,No,No,Unknown,No,Unknown,Yes,Yes,Yes,Yes,No,Yes,Open,No,None,Yes
+4736257,"1915 Wells Branch Pkwy  Austin, Travis County  78728",Apt,$790.00,$250.00,1,1,600,N/A,No,Yes,No,No,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4654625,"12433 Dessau Rd  Austin, TRAVIS County  78754",Apt,$959.00,$200.00,2,1,969,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,None,No
+4644685,"5800 Sweeney Cir  Austin, Travis County  78723",Apt,$750.00,$750.00,1,1,505,1984,No,Yes,No,No,No,No,No,No,No,Central,No,Yes,Yes,Yes,No,No,Unassigned,No,None,No
+4600565,"10910 N FM 620 Austin, Travis County  78726",Apt,"$1,303.00",$350.00,3,2,1250,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Not Known,No
+4579597,"10910 N FM 620 Austin, Travis County  78726",Apt,"$1,147.00",$250.00,2,2,1013,2016,Yes,Yes,No,No,No,No,No,No,No,Central,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No,Balcony,No
+4048126,"2800 Collins Creek Dr Austin, Travis County  78741",Apt,$909.00,$250.00,2,2,950,2003,Yes,Yes,No,No,No,No,No,No,No,Boiler,Yes,Yes,Yes,Yes,No,Yes,1 - Carport,Yes,Balcony,No

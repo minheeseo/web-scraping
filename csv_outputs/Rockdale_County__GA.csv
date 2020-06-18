@@ -1,0 +1,6 @@
+u_id,address,ptype,rent,deposit,bed,bath,sqfeet,yearbuilt,pet,ceilingFan,furnished,fireplace,cablePaid,securitySystem,laundry,washer,dryer,heatstyle,dishwasher,stove,garbage,refrigerator,microwave,swimming,parking,fence,porch,smoking
+4435391,"1249 Pinedale NW Cir Conyers, Rockdale County  30012",Townhouse/Villa,"$1,100.00","$1,000.00",3,2.5,1335,1986,No,Yes,No,Yes,No,No,No,Yes,Yes,Central,Yes,Yes,Yes,Yes,Yes,No,3+ Spaces,No,Patio,No
+4895335,"1500 Brandon Glen NE Way Conyers, Rockdale County  30012",Apt,"$1,110.00",$500.00,2,2,1032,1996,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,Yes,Yes,Yes,Yes,Unassigned,No,Balcony,No
+4920596,"1500 Brandon Glen NE Way Conyers, Rockdale County  30012",Apt,$935.00,$500.00,2,2,1032,1996,Yes,Yes,No,No,No,No,No,No,No,Heat Pump,Yes,Yes,No,Yes,No,Yes,Unassigned,No,Balcony,No
+4321670,"2612 Country Trce SE Conyers, Rockdale County  30013",Duplex,"$1,175.00","$1,175.00",3,2,1500,1986,No,Yes,No,Yes,No,No,No,No,No,Central,Yes,Yes,No,Yes,No,No,2 Spaces,No,Patio,No
+4626917,"607 Hamlet Ct SE Conyers, Rockdale County  30094",House,"$1,375.00","$1,375.00",3,2,1245,1985,No,Yes,No,Yes,No,Yes,No,No,No,Furnace,Yes,Yes,No,Yes,No,No,1 - Car Garage,Yes,Porch,No
