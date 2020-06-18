@@ -9,7 +9,7 @@ Extract diverse types of data from the web using Selenium, BeautifulSoup, and Pa
 ## 1. Housing data scraper
 ---
 ### A. Summary
-``gosection8.py`` extracts affordable rental listings from [GoSection8 website](https://www.gosection8.com/) by metropolitan areas. It uses Selenium and extracts apartment/home information, such as address, type, rental price, size, the number of bedrooms and bathrooms, and additional detailed information about features (fireplace, laundry, washer, pet, parking, swimming, smoking, and etc.), and save them as csv files.
+``gosection8.py`` extracts affordable rental listings from [GoSection8 website](https://www.gosection8.com/) by metropolitan areas. It uses Selenium and extracts apartment/home amenities, such as address, type, rental price, size, the number of bedrooms and bathrooms, and additional detailed information about features (fireplace, laundry, washer, pet, parking, swimming, smoking, and etc.), and saves them as csv files.
 
 
 
@@ -24,14 +24,14 @@ The [GoSection8 website](https://www.gosection8.com/) provides affordable proper
 </p>
 
 
-To scrape rental listings from this website, the results of a city, state, or zip (for example, St Louis) should be first inserted in the search page. For this project, I use metropolitan area and corresponding code as inputs. Then, on the results page, each listing should be clicked for more informaion about features. Here, Selenium API is a useful tool for web scraping this website as it automates the actions. To use the code (gosection8.py), make sure you install ChromeDriver on your local machine.
+To scrape rental listings from this website, the results of a city, state, or zip (for example, St Louis) should be first inserted in the search page. For this project, I use metropolitan area and corresponding code as inputs. Then, on the results page, each listing should be clicked for more informaion about features. Here, Selenium API is a useful tool to web scraping this site as it automates the actions. To use the code (``gosection8.py``), make sure you install ChromeDriver on your local machine.
 
 
 
 ### C. Code
 
 
-From ``input.xlsx`` file, each metropolitan area is appended after the base URL. If there are no listings on the search results page, the scraper prints ``".....................no infomation for this link....................."``.  If there are listings, then the code checks the number of pages of the search results, automatically click on each listing, scrape information, and writes them into csv files.
+From ``input.xlsx`` file, each metropolitan area is appended after the base URL. If there are no listings on the search results page, the scraper prints ``".....................no infomation for this link....................."``.  If there are listings, then the code checks the number of pages of the search results, automatically click on each listing, scrapes information, and writes them into csv files.
 
 
 ```python
